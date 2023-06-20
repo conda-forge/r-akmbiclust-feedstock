@@ -1,11 +1,11 @@
-About r-akmbiclust
-==================
+About r-akmbiclust-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-akmbiclust-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=akmbiclust
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-akmbiclust-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements the alternating k-means biclustering algorithm in Fraiman and Li (2020) <arXiv:2009.04550>.
 
